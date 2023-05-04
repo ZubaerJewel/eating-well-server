@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://i.ibb.co/wKtK8GZ/chf-1.png",
+        "chefName": "John Doe",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "likes": 1000,
+        "description": "John Doe is a highly experienced chef with 10 years of experience in the culinary arts. He has created over 50 delicious recipes that have earned him 1000 likes from his followers."
+    },
+    {
+        "id": 2,
+        "chefPicture": "https://i.ibb.co/T4sNpcS/chf-2.png",
+        "chefName": "Jane Smith",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 30,
+        "likes": 500,
+        "description": "Jane Smith is a talented chef with 5 years of experience in the kitchen. She has created 30 unique recipes that have earned her 500 likes from her followers."
+    },
+    {
+        "id": 3,
+        "chefPicture": "https://i.ibb.co/cw6ct6Z/chf-3.png",
+        "chefName": "David Lee",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 60,
+        "likes": 1500,
+        "description": "David Lee is a seasoned chef with 12 years of experience in the culinary arts. He has created over 60 delicious recipes that have earned him 1500 likes from his followers."
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://i.ibb.co/yNHBp2H/chf-4.png",
+        "chefName": "Saras Garcia",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 40,
+        "likes": 800,
+        "description": "Saras Garcia is a skilled chef with 7 years of experience in the kitchen. She has created 40 unique recipes that have earned her 800 likes from her followers."
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://i.ibb.co/ft9kbPw/chf-5.png",
+        "chefName": "Peter Brown",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 45,
+        "likes": 900,
+        "description": "Peter Brown is a creative chef with 8 years of experience in the culinary arts. He has created 45 delicious recipes that have earned him 900 likes from his followers."
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://i.ibb.co/wY7djT0/chf-6.png",
+        "chefName": "Emily Davis",
+        "yearsOfExperience": 6,
+        "numberOfRecipes": 35,
+        "likes": 600,
+        "description": "Emily Davis is a talented chef with 6 years of experience in the kitchen. She has created 35 unique recipes that have earned her 600 likes from her followers."
+    }
+]
