@@ -97,7 +97,12 @@
                             "1/2 cup Parmesan cheese, grated","Salt and pepper to taste"
                         ],
                             "cookingMethod":
-                            "1. Melt butter and olive oil in a large pot over medium heat. Add onions, salt, and sugar. Cook onions, stirring occasionally, for about 45 minutes, or until caramelized.\n2. Add garlic and cook for 2-3 minutes, or until fragrant.\n3. Add beef broth, water, red wine, bay leaves, and thyme. Bring to a simmer and cook for 30 minutes.\n4. Preheat oven to 350°F.\n5. Arrange baguette slices on a baking sheet and toast in the oven for 10-15 minutes, or until crispy.","rating":4.8}]},{"id":3,"chefPicture":"https://todaysworldkitchen.com/wp-content/uploads/2016/11/Joel-Robuchon-final-1080x675.jpg","yearsOfExperience":60,"numberOfRecipes":50,"likes":1500,"chefBio":"Paul Bocuse was a French chef who was known for his innovative approaches to classic French cuisine. He was awarded three Michelin stars for his restaurant near Lyon, France, and was a pioneer of nouvelle cuisine.",
+                            "1. Melt butter and olive oil in a large pot over medium heat. Add onions, salt, and sugar. Cook onions, stirring occasionally, for about 45 minutes, or until caramelized.\n2. Add garlic and cook for 2-3 minutes, or until fragrant.\n3. Add beef broth, water, red wine, bay leaves, and thyme. Bring to a simmer and cook for 30 minutes.\n4. Preheat oven to 350°F.\n5. Arrange baguette slices on a baking sheet and toast in the oven for 10-15 minutes, or until crispy.","rating":4.8}]},
+                            
+         {"id":3,"chefPicture":"https://todaysworldkitchen.com/wp-content/uploads/2016/11/Joel-Robuchon-final-1080x675.jpg",
+         "chefName":"Michel Pucasse",
+         "yearsOfExperience":60,"numberOfRecipes":50,"likes":1500,"chefBio":"Paul Bocuse was a French chef who was known for his innovative approaches to classic French cuisine. He was awarded three Michelin stars for his restaurant near Lyon, France, and was a pioneer of nouvelle cuisine.",
+                            
                             "recipes":
                             [{
                                 "_id":101,
