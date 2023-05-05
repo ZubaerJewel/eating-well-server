@@ -5,6 +5,8 @@ const cors = require('cors');
 
 const chef = require('./data/chefData.json');
 const recipe = require('./data/recipeData.json');
+//This file provide data for server side.There have two json data file but 
+//i am using on the project eating well that chefData.json flie only .There have adjust my recipes information.   
 
 app.use(cors());
 
